@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Color Wheel: Spin & Paint Art app (hereby referred to as "Application") for mobile devices that was created by Serghei Ionita (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the Currency Crypto Fiat Convertor app (hereby referred to as "Application") for mobile devices that was created by Serghei IONITA (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
@@ -21,7 +21,7 @@ The Application collects your device's location, which helps the Service Provide
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to userID. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to ionita12@mail.ru. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
@@ -31,7 +31,6 @@ Please note that the Application utilizes third-party services that have their o
 
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Mixpanel](https://mixpanel.com/legal/privacy-policy/)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
@@ -46,13 +45,13 @@ You can stop all collection of information by the Application easily by uninstal
 
 **Data Retention Policy**
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at ionita12@mail.ru and they will respond in a reasonable time.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at Ionita Serghei and they will respond in a reasonable time.
 
 **Children**
 
 The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (ionita12@mail.ru) so that they will be able to take the necessary actions.
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (Ionita Serghei) so that they will be able to take the necessary actions.
 
 **Security**
 
@@ -62,7 +61,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-03-27
+This privacy policy is effective as of 2026-01-06
 
 **Your Consent**
 
@@ -70,7 +69,7 @@ By using the Application, you are consenting to the processing of your informati
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at ionita12@mail.ru.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at Ionita Serghei.
 
 * * *
 
